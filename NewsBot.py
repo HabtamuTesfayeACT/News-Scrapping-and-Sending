@@ -5,8 +5,8 @@ import asyncio
 from io import BytesIO
 
 # Set up the Telegram bot
-bot_token = '6084880964:AAFJfaQJYvXcUWotUXOCI5vQfFCzIGODY1A'
-chat_id = '-1001944694630'
+bot_token = 'bot key'
+chat_id = 'chhanale id'
 bot = telegram.Bot(token=bot_token)
 
 # Set up the set to store the URLs
